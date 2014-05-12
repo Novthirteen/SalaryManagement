@@ -324,81 +324,13 @@ namespace SalaryManagement {
             
             private global::System.Data.DataColumn column结算部门;
             
-            private global::System.Data.DataColumn column性别;
-            
-            private global::System.Data.DataColumn column民族;
-            
-            private global::System.Data.DataColumn column出生日期;
-            
-            private global::System.Data.DataColumn column入伍地点;
-            
-            private global::System.Data.DataColumn column文化程度;
-            
-            private global::System.Data.DataColumn column入伍前工龄;
-            
-            private global::System.Data.DataColumn column工作时间;
-            
-            private global::System.Data.DataColumn column入伍时间;
-            
-            private global::System.Data.DataColumn column护教龄;
-            
             private global::System.Data.DataColumn column职务等级;
             
             private global::System.Data.DataColumn column军衔级别;
             
-            private global::System.Data.DataColumn column专业技术职务;
-            
-            private global::System.Data.DataColumn column离退时间;
-            
-            private global::System.Data.DataColumn column计发比例;
-            
-            private global::System.Data.DataColumn column婚姻状况;
-            
-            private global::System.Data.DataColumn column子女状况;
-            
-            private global::System.Data.DataColumn column享受住房补贴状况;
-            
-            private global::System.Data.DataColumn column伤残等级;
-            
-            private global::System.Data.DataColumn column提干时间;
-            
-            private global::System.Data.DataColumn column调入时间;
-            
-            private global::System.Data.DataColumn column停供国防费时间;
-            
-            private global::System.Data.DataColumn column选改士官时间;
-            
-            private global::System.Data.DataColumn column入伍登记表编号;
-            
-            private global::System.Data.DataColumn column选改士官提干命令号;
-            
-            private global::System.Data.DataColumn column部队驻地;
-            
-            private global::System.Data.DataColumn column原单位;
-            
-            private global::System.Data.DataColumn column供给介绍信编号;
-            
             private global::System.Data.DataColumn column公民身份证号;
             
-            private global::System.Data.DataColumn column军人保障卡号;
-            
-            private global::System.Data.DataColumn column干部编号;
-            
-            private global::System.Data.DataColumn column人员来源;
-            
             private global::System.Data.DataColumn column储蓄账号;
-            
-            private global::System.Data.DataColumn column院校学员;
-            
-            private global::System.Data.DataColumn column学籍号;
-            
-            private global::System.Data.DataColumn column备注;
-            
-            private global::System.Data.DataColumn column不自动计算医保;
-            
-            private global::System.Data.DataColumn column不自动计算税款;
-            
-            private global::System.Data.DataColumn column不自动计算大病互助保险;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
@@ -475,78 +407,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 性别Column {
-                get {
-                    return this.column性别;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 民族Column {
-                get {
-                    return this.column民族;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 出生日期Column {
-                get {
-                    return this.column出生日期;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 入伍地点Column {
-                get {
-                    return this.column入伍地点;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 文化程度Column {
-                get {
-                    return this.column文化程度;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 入伍前工龄Column {
-                get {
-                    return this.column入伍前工龄;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 工作时间Column {
-                get {
-                    return this.column工作时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 入伍时间Column {
-                get {
-                    return this.column入伍时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 护教龄Column {
-                get {
-                    return this.column护教龄;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public global::System.Data.DataColumn 职务等级Column {
                 get {
                     return this.column职务等级;
@@ -563,134 +423,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 专业技术职务Column {
-                get {
-                    return this.column专业技术职务;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 离退时间Column {
-                get {
-                    return this.column离退时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 计发比例Column {
-                get {
-                    return this.column计发比例;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 婚姻状况Column {
-                get {
-                    return this.column婚姻状况;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 子女状况Column {
-                get {
-                    return this.column子女状况;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 享受住房补贴状况Column {
-                get {
-                    return this.column享受住房补贴状况;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 伤残等级Column {
-                get {
-                    return this.column伤残等级;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 提干时间Column {
-                get {
-                    return this.column提干时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 调入时间Column {
-                get {
-                    return this.column调入时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 停供国防费时间Column {
-                get {
-                    return this.column停供国防费时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 选改士官时间Column {
-                get {
-                    return this.column选改士官时间;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 入伍登记表编号Column {
-                get {
-                    return this.column入伍登记表编号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 选改士官提干命令号Column {
-                get {
-                    return this.column选改士官提干命令号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 部队驻地Column {
-                get {
-                    return this.column部队驻地;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 原单位Column {
-                get {
-                    return this.column原单位;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 供给介绍信编号Column {
-                get {
-                    return this.column供给介绍信编号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public global::System.Data.DataColumn 公民身份证号Column {
                 get {
                     return this.column公民身份证号;
@@ -699,81 +431,9 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 军人保障卡号Column {
-                get {
-                    return this.column军人保障卡号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 干部编号Column {
-                get {
-                    return this.column干部编号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 人员来源Column {
-                get {
-                    return this.column人员来源;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public global::System.Data.DataColumn 储蓄账号Column {
                 get {
                     return this.column储蓄账号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 院校学员Column {
-                get {
-                    return this.column院校学员;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 学籍号Column {
-                get {
-                    return this.column学籍号;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 备注Column {
-                get {
-                    return this.column备注;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 不自动计算医保Column {
-                get {
-                    return this.column不自动计算医保;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 不自动计算税款Column {
-                get {
-                    return this.column不自动计算税款;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public global::System.Data.DataColumn 不自动计算大病互助保险Column {
-                get {
-                    return this.column不自动计算大病互助保险;
                 }
             }
             
@@ -814,49 +474,7 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public StaffRow AddStaffRow(
-                        string 档案号, 
-                        string 人员类别, 
-                        string 姓名, 
-                        string 结算部门, 
-                        string 性别, 
-                        string 民族, 
-                        string 出生日期, 
-                        string 入伍地点, 
-                        string 文化程度, 
-                        string 入伍前工龄, 
-                        string 工作时间, 
-                        string 入伍时间, 
-                        string 护教龄, 
-                        string 职务等级, 
-                        string 军衔级别, 
-                        string 专业技术职务, 
-                        string 离退时间, 
-                        string 计发比例, 
-                        string 婚姻状况, 
-                        string 子女状况, 
-                        string 享受住房补贴状况, 
-                        string 伤残等级, 
-                        string 提干时间, 
-                        string 调入时间, 
-                        string 停供国防费时间, 
-                        string 选改士官时间, 
-                        string 入伍登记表编号, 
-                        string 选改士官提干命令号, 
-                        string 部队驻地, 
-                        string 原单位, 
-                        string 供给介绍信编号, 
-                        string 公民身份证号, 
-                        string 军人保障卡号, 
-                        string 干部编号, 
-                        string 人员来源, 
-                        string 储蓄账号, 
-                        string 院校学员, 
-                        string 学籍号, 
-                        string 备注, 
-                        string 不自动计算医保, 
-                        string 不自动计算税款, 
-                        string 不自动计算大病互助保险) {
+            public StaffRow AddStaffRow(string 档案号, string 人员类别, string 姓名, string 结算部门, string 职务等级, string 军衔级别, string 公民身份证号, string 储蓄账号) {
                 StaffRow rowStaffRow = ((StaffRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         null,
@@ -864,44 +482,10 @@ namespace SalaryManagement {
                         人员类别,
                         姓名,
                         结算部门,
-                        性别,
-                        民族,
-                        出生日期,
-                        入伍地点,
-                        文化程度,
-                        入伍前工龄,
-                        工作时间,
-                        入伍时间,
-                        护教龄,
                         职务等级,
                         军衔级别,
-                        专业技术职务,
-                        离退时间,
-                        计发比例,
-                        婚姻状况,
-                        子女状况,
-                        享受住房补贴状况,
-                        伤残等级,
-                        提干时间,
-                        调入时间,
-                        停供国防费时间,
-                        选改士官时间,
-                        入伍登记表编号,
-                        选改士官提干命令号,
-                        部队驻地,
-                        原单位,
-                        供给介绍信编号,
                         公民身份证号,
-                        军人保障卡号,
-                        干部编号,
-                        人员来源,
-                        储蓄账号,
-                        院校学员,
-                        学籍号,
-                        备注,
-                        不自动计算医保,
-                        不自动计算税款,
-                        不自动计算大病互助保险};
+                        储蓄账号};
                 rowStaffRow.ItemArray = columnValuesArray;
                 this.Rows.Add(rowStaffRow);
                 return rowStaffRow;
@@ -936,44 +520,10 @@ namespace SalaryManagement {
                 this.column人员类别 = base.Columns["人员类别"];
                 this.column姓名 = base.Columns["姓名"];
                 this.column结算部门 = base.Columns["结算部门"];
-                this.column性别 = base.Columns["性别"];
-                this.column民族 = base.Columns["民族"];
-                this.column出生日期 = base.Columns["出生日期"];
-                this.column入伍地点 = base.Columns["入伍地点"];
-                this.column文化程度 = base.Columns["文化程度"];
-                this.column入伍前工龄 = base.Columns["入伍前工龄"];
-                this.column工作时间 = base.Columns["工作时间"];
-                this.column入伍时间 = base.Columns["入伍时间"];
-                this.column护教龄 = base.Columns["护教龄"];
                 this.column职务等级 = base.Columns["职务等级"];
                 this.column军衔级别 = base.Columns["军衔级别"];
-                this.column专业技术职务 = base.Columns["专业技术职务"];
-                this.column离退时间 = base.Columns["离退时间"];
-                this.column计发比例 = base.Columns["计发比例"];
-                this.column婚姻状况 = base.Columns["婚姻状况"];
-                this.column子女状况 = base.Columns["子女状况"];
-                this.column享受住房补贴状况 = base.Columns["享受住房补贴状况"];
-                this.column伤残等级 = base.Columns["伤残等级"];
-                this.column提干时间 = base.Columns["提干时间"];
-                this.column调入时间 = base.Columns["调入时间"];
-                this.column停供国防费时间 = base.Columns["停供国防费时间"];
-                this.column选改士官时间 = base.Columns["选改士官时间"];
-                this.column入伍登记表编号 = base.Columns["入伍登记表编号"];
-                this.column选改士官提干命令号 = base.Columns["选改士官提干命令号"];
-                this.column部队驻地 = base.Columns["部队驻地"];
-                this.column原单位 = base.Columns["原单位"];
-                this.column供给介绍信编号 = base.Columns["供给介绍信编号"];
                 this.column公民身份证号 = base.Columns["公民身份证号"];
-                this.column军人保障卡号 = base.Columns["军人保障卡号"];
-                this.column干部编号 = base.Columns["干部编号"];
-                this.column人员来源 = base.Columns["人员来源"];
                 this.column储蓄账号 = base.Columns["储蓄账号"];
-                this.column院校学员 = base.Columns["院校学员"];
-                this.column学籍号 = base.Columns["学籍号"];
-                this.column备注 = base.Columns["备注"];
-                this.column不自动计算医保 = base.Columns["不自动计算医保"];
-                this.column不自动计算税款 = base.Columns["不自动计算税款"];
-                this.column不自动计算大病互助保险 = base.Columns["不自动计算大病互助保险"];
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -989,82 +539,14 @@ namespace SalaryManagement {
                 base.Columns.Add(this.column姓名);
                 this.column结算部门 = new global::System.Data.DataColumn("结算部门", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.column结算部门);
-                this.column性别 = new global::System.Data.DataColumn("性别", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column性别);
-                this.column民族 = new global::System.Data.DataColumn("民族", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column民族);
-                this.column出生日期 = new global::System.Data.DataColumn("出生日期", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column出生日期);
-                this.column入伍地点 = new global::System.Data.DataColumn("入伍地点", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column入伍地点);
-                this.column文化程度 = new global::System.Data.DataColumn("文化程度", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column文化程度);
-                this.column入伍前工龄 = new global::System.Data.DataColumn("入伍前工龄", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column入伍前工龄);
-                this.column工作时间 = new global::System.Data.DataColumn("工作时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column工作时间);
-                this.column入伍时间 = new global::System.Data.DataColumn("入伍时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column入伍时间);
-                this.column护教龄 = new global::System.Data.DataColumn("护教龄", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column护教龄);
                 this.column职务等级 = new global::System.Data.DataColumn("职务等级", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.column职务等级);
                 this.column军衔级别 = new global::System.Data.DataColumn("军衔级别", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.column军衔级别);
-                this.column专业技术职务 = new global::System.Data.DataColumn("专业技术职务", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column专业技术职务);
-                this.column离退时间 = new global::System.Data.DataColumn("离退时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column离退时间);
-                this.column计发比例 = new global::System.Data.DataColumn("计发比例", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column计发比例);
-                this.column婚姻状况 = new global::System.Data.DataColumn("婚姻状况", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column婚姻状况);
-                this.column子女状况 = new global::System.Data.DataColumn("子女状况", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column子女状况);
-                this.column享受住房补贴状况 = new global::System.Data.DataColumn("享受住房补贴状况", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column享受住房补贴状况);
-                this.column伤残等级 = new global::System.Data.DataColumn("伤残等级", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column伤残等级);
-                this.column提干时间 = new global::System.Data.DataColumn("提干时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column提干时间);
-                this.column调入时间 = new global::System.Data.DataColumn("调入时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column调入时间);
-                this.column停供国防费时间 = new global::System.Data.DataColumn("停供国防费时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column停供国防费时间);
-                this.column选改士官时间 = new global::System.Data.DataColumn("选改士官时间", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column选改士官时间);
-                this.column入伍登记表编号 = new global::System.Data.DataColumn("入伍登记表编号", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column入伍登记表编号);
-                this.column选改士官提干命令号 = new global::System.Data.DataColumn("选改士官提干命令号", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column选改士官提干命令号);
-                this.column部队驻地 = new global::System.Data.DataColumn("部队驻地", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column部队驻地);
-                this.column原单位 = new global::System.Data.DataColumn("原单位", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column原单位);
-                this.column供给介绍信编号 = new global::System.Data.DataColumn("供给介绍信编号", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column供给介绍信编号);
                 this.column公民身份证号 = new global::System.Data.DataColumn("公民身份证号", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.column公民身份证号);
-                this.column军人保障卡号 = new global::System.Data.DataColumn("军人保障卡号", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column军人保障卡号);
-                this.column干部编号 = new global::System.Data.DataColumn("干部编号", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column干部编号);
-                this.column人员来源 = new global::System.Data.DataColumn("人员来源", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column人员来源);
                 this.column储蓄账号 = new global::System.Data.DataColumn("储蓄账号", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.column储蓄账号);
-                this.column院校学员 = new global::System.Data.DataColumn("院校学员", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column院校学员);
-                this.column学籍号 = new global::System.Data.DataColumn("学籍号", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column学籍号);
-                this.column备注 = new global::System.Data.DataColumn("备注", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column备注);
-                this.column不自动计算医保 = new global::System.Data.DataColumn("不自动计算医保", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column不自动计算医保);
-                this.column不自动计算税款 = new global::System.Data.DataColumn("不自动计算税款", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column不自动计算税款);
-                this.column不自动计算大病互助保险 = new global::System.Data.DataColumn("不自动计算大病互助保险", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.column不自动计算大病互助保险);
                 this.Constraints.Add(new global::System.Data.UniqueConstraint("Constraint1", new global::System.Data.DataColumn[] {
                                 this.columnID}, true));
                 this.columnID.AutoIncrement = true;
@@ -1076,44 +558,10 @@ namespace SalaryManagement {
                 this.column人员类别.MaxLength = 255;
                 this.column姓名.MaxLength = 255;
                 this.column结算部门.MaxLength = 255;
-                this.column性别.MaxLength = 255;
-                this.column民族.MaxLength = 255;
-                this.column出生日期.MaxLength = 255;
-                this.column入伍地点.MaxLength = 255;
-                this.column文化程度.MaxLength = 255;
-                this.column入伍前工龄.MaxLength = 255;
-                this.column工作时间.MaxLength = 255;
-                this.column入伍时间.MaxLength = 255;
-                this.column护教龄.MaxLength = 255;
                 this.column职务等级.MaxLength = 255;
                 this.column军衔级别.MaxLength = 255;
-                this.column专业技术职务.MaxLength = 255;
-                this.column离退时间.MaxLength = 255;
-                this.column计发比例.MaxLength = 255;
-                this.column婚姻状况.MaxLength = 255;
-                this.column子女状况.MaxLength = 255;
-                this.column享受住房补贴状况.MaxLength = 255;
-                this.column伤残等级.MaxLength = 255;
-                this.column提干时间.MaxLength = 255;
-                this.column调入时间.MaxLength = 255;
-                this.column停供国防费时间.MaxLength = 255;
-                this.column选改士官时间.MaxLength = 255;
-                this.column入伍登记表编号.MaxLength = 255;
-                this.column选改士官提干命令号.MaxLength = 255;
-                this.column部队驻地.MaxLength = 255;
-                this.column原单位.MaxLength = 255;
-                this.column供给介绍信编号.MaxLength = 255;
                 this.column公民身份证号.MaxLength = 255;
-                this.column军人保障卡号.MaxLength = 255;
-                this.column干部编号.MaxLength = 255;
-                this.column人员来源.MaxLength = 255;
                 this.column储蓄账号.MaxLength = 255;
-                this.column院校学员.MaxLength = 255;
-                this.column学籍号.MaxLength = 255;
-                this.column备注.MaxLength = 255;
-                this.column不自动计算医保.MaxLength = 255;
-                this.column不自动计算税款.MaxLength = 255;
-                this.column不自动计算大病互助保险.MaxLength = 255;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -1651,150 +1099,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 性别 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.性别Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'性别\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.性别Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 民族 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.民族Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'民族\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.民族Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 出生日期 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.出生日期Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'出生日期\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.出生日期Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 入伍地点 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.入伍地点Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'入伍地点\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.入伍地点Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 文化程度 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.文化程度Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'文化程度\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.文化程度Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 入伍前工龄 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.入伍前工龄Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'入伍前工龄\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.入伍前工龄Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 工作时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.工作时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'工作时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.工作时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 入伍时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.入伍时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'入伍时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.入伍时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 护教龄 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.护教龄Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'护教龄\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.护教龄Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public string 职务等级 {
                 get {
                     try {
@@ -1827,262 +1131,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 专业技术职务 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.专业技术职务Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'专业技术职务\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.专业技术职务Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 离退时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.离退时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'离退时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.离退时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 计发比例 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.计发比例Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'计发比例\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.计发比例Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 婚姻状况 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.婚姻状况Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'婚姻状况\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.婚姻状况Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 子女状况 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.子女状况Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'子女状况\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.子女状况Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 享受住房补贴状况 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.享受住房补贴状况Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'享受住房补贴状况\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.享受住房补贴状况Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 伤残等级 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.伤残等级Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'伤残等级\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.伤残等级Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 提干时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.提干时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'提干时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.提干时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 调入时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.调入时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'调入时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.调入时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 停供国防费时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.停供国防费时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'停供国防费时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.停供国防费时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 选改士官时间 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.选改士官时间Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'选改士官时间\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.选改士官时间Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 入伍登记表编号 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.入伍登记表编号Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'入伍登记表编号\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.入伍登记表编号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 选改士官提干命令号 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.选改士官提干命令号Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'选改士官提干命令号\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.选改士官提干命令号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 部队驻地 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.部队驻地Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'部队驻地\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.部队驻地Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 原单位 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.原单位Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'原单位\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.原单位Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 供给介绍信编号 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.供给介绍信编号Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'供给介绍信编号\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.供给介绍信编号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public string 公民身份证号 {
                 get {
                     try {
@@ -2099,54 +1147,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 军人保障卡号 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.军人保障卡号Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'军人保障卡号\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.军人保障卡号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 干部编号 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.干部编号Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'干部编号\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.干部编号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 人员来源 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.人员来源Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'人员来源\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.人员来源Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public string 储蓄账号 {
                 get {
                     try {
@@ -2158,102 +1158,6 @@ namespace SalaryManagement {
                 }
                 set {
                     this[this.tableStaff.储蓄账号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 院校学员 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.院校学员Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'院校学员\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.院校学员Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 学籍号 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.学籍号Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'学籍号\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.学籍号Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 备注 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.备注Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'备注\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.备注Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 不自动计算医保 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.不自动计算医保Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'不自动计算医保\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.不自动计算医保Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 不自动计算税款 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.不自动计算税款Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'不自动计算税款\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.不自动计算税款Column] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public string 不自动计算大病互助保险 {
-                get {
-                    try {
-                        return ((string)(this[this.tableStaff.不自动计算大病互助保险Column]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'不自动计算大病互助保险\' in table \'Staff\' is DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableStaff.不自动计算大病互助保险Column] = value;
                 }
             }
             
@@ -2307,114 +1211,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is性别Null() {
-                return this.IsNull(this.tableStaff.性别Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set性别Null() {
-                this[this.tableStaff.性别Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is民族Null() {
-                return this.IsNull(this.tableStaff.民族Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set民族Null() {
-                this[this.tableStaff.民族Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is出生日期Null() {
-                return this.IsNull(this.tableStaff.出生日期Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set出生日期Null() {
-                this[this.tableStaff.出生日期Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is入伍地点Null() {
-                return this.IsNull(this.tableStaff.入伍地点Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set入伍地点Null() {
-                this[this.tableStaff.入伍地点Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is文化程度Null() {
-                return this.IsNull(this.tableStaff.文化程度Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set文化程度Null() {
-                this[this.tableStaff.文化程度Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is入伍前工龄Null() {
-                return this.IsNull(this.tableStaff.入伍前工龄Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set入伍前工龄Null() {
-                this[this.tableStaff.入伍前工龄Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is工作时间Null() {
-                return this.IsNull(this.tableStaff.工作时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set工作时间Null() {
-                this[this.tableStaff.工作时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is入伍时间Null() {
-                return this.IsNull(this.tableStaff.入伍时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set入伍时间Null() {
-                this[this.tableStaff.入伍时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is护教龄Null() {
-                return this.IsNull(this.tableStaff.护教龄Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set护教龄Null() {
-                this[this.tableStaff.护教龄Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public bool Is职务等级Null() {
                 return this.IsNull(this.tableStaff.职务等级Column);
             }
@@ -2439,198 +1235,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is专业技术职务Null() {
-                return this.IsNull(this.tableStaff.专业技术职务Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set专业技术职务Null() {
-                this[this.tableStaff.专业技术职务Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is离退时间Null() {
-                return this.IsNull(this.tableStaff.离退时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set离退时间Null() {
-                this[this.tableStaff.离退时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is计发比例Null() {
-                return this.IsNull(this.tableStaff.计发比例Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set计发比例Null() {
-                this[this.tableStaff.计发比例Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is婚姻状况Null() {
-                return this.IsNull(this.tableStaff.婚姻状况Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set婚姻状况Null() {
-                this[this.tableStaff.婚姻状况Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is子女状况Null() {
-                return this.IsNull(this.tableStaff.子女状况Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set子女状况Null() {
-                this[this.tableStaff.子女状况Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is享受住房补贴状况Null() {
-                return this.IsNull(this.tableStaff.享受住房补贴状况Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set享受住房补贴状况Null() {
-                this[this.tableStaff.享受住房补贴状况Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is伤残等级Null() {
-                return this.IsNull(this.tableStaff.伤残等级Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set伤残等级Null() {
-                this[this.tableStaff.伤残等级Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is提干时间Null() {
-                return this.IsNull(this.tableStaff.提干时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set提干时间Null() {
-                this[this.tableStaff.提干时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is调入时间Null() {
-                return this.IsNull(this.tableStaff.调入时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set调入时间Null() {
-                this[this.tableStaff.调入时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is停供国防费时间Null() {
-                return this.IsNull(this.tableStaff.停供国防费时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set停供国防费时间Null() {
-                this[this.tableStaff.停供国防费时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is选改士官时间Null() {
-                return this.IsNull(this.tableStaff.选改士官时间Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set选改士官时间Null() {
-                this[this.tableStaff.选改士官时间Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is入伍登记表编号Null() {
-                return this.IsNull(this.tableStaff.入伍登记表编号Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set入伍登记表编号Null() {
-                this[this.tableStaff.入伍登记表编号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is选改士官提干命令号Null() {
-                return this.IsNull(this.tableStaff.选改士官提干命令号Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set选改士官提干命令号Null() {
-                this[this.tableStaff.选改士官提干命令号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is部队驻地Null() {
-                return this.IsNull(this.tableStaff.部队驻地Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set部队驻地Null() {
-                this[this.tableStaff.部队驻地Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is原单位Null() {
-                return this.IsNull(this.tableStaff.原单位Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set原单位Null() {
-                this[this.tableStaff.原单位Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is供给介绍信编号Null() {
-                return this.IsNull(this.tableStaff.供给介绍信编号Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set供给介绍信编号Null() {
-                this[this.tableStaff.供给介绍信编号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public bool Is公民身份证号Null() {
                 return this.IsNull(this.tableStaff.公民身份证号Column);
             }
@@ -2643,42 +1247,6 @@ namespace SalaryManagement {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is军人保障卡号Null() {
-                return this.IsNull(this.tableStaff.军人保障卡号Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set军人保障卡号Null() {
-                this[this.tableStaff.军人保障卡号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is干部编号Null() {
-                return this.IsNull(this.tableStaff.干部编号Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set干部编号Null() {
-                this[this.tableStaff.干部编号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is人员来源Null() {
-                return this.IsNull(this.tableStaff.人员来源Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set人员来源Null() {
-                this[this.tableStaff.人员来源Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public bool Is储蓄账号Null() {
                 return this.IsNull(this.tableStaff.储蓄账号Column);
             }
@@ -2687,78 +1255,6 @@ namespace SalaryManagement {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public void Set储蓄账号Null() {
                 this[this.tableStaff.储蓄账号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is院校学员Null() {
-                return this.IsNull(this.tableStaff.院校学员Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set院校学员Null() {
-                this[this.tableStaff.院校学员Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is学籍号Null() {
-                return this.IsNull(this.tableStaff.学籍号Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set学籍号Null() {
-                this[this.tableStaff.学籍号Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is备注Null() {
-                return this.IsNull(this.tableStaff.备注Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set备注Null() {
-                this[this.tableStaff.备注Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is不自动计算医保Null() {
-                return this.IsNull(this.tableStaff.不自动计算医保Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set不自动计算医保Null() {
-                this[this.tableStaff.不自动计算医保Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is不自动计算税款Null() {
-                return this.IsNull(this.tableStaff.不自动计算税款Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set不自动计算税款Null() {
-                this[this.tableStaff.不自动计算税款Column] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public bool Is不自动计算大病互助保险Null() {
-                return this.IsNull(this.tableStaff.不自动计算大病互助保险Column);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public void Set不自动计算大病互助保险Null() {
-                this[this.tableStaff.不自动计算大病互助保险Column] = global::System.Convert.DBNull;
             }
         }
         
@@ -3098,74 +1594,14 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             tableMapping.ColumnMappings.Add("人员类别", "人员类别");
             tableMapping.ColumnMappings.Add("姓名", "姓名");
             tableMapping.ColumnMappings.Add("结算部门", "结算部门");
-            tableMapping.ColumnMappings.Add("性别", "性别");
-            tableMapping.ColumnMappings.Add("民族", "民族");
-            tableMapping.ColumnMappings.Add("出生日期", "出生日期");
-            tableMapping.ColumnMappings.Add("入伍地点", "入伍地点");
-            tableMapping.ColumnMappings.Add("文化程度", "文化程度");
-            tableMapping.ColumnMappings.Add("入伍前工龄", "入伍前工龄");
-            tableMapping.ColumnMappings.Add("工作时间", "工作时间");
-            tableMapping.ColumnMappings.Add("入伍时间", "入伍时间");
-            tableMapping.ColumnMappings.Add("护教龄", "护教龄");
             tableMapping.ColumnMappings.Add("职务等级", "职务等级");
             tableMapping.ColumnMappings.Add("军衔级别", "军衔级别");
-            tableMapping.ColumnMappings.Add("专业技术职务", "专业技术职务");
-            tableMapping.ColumnMappings.Add("离退时间", "离退时间");
-            tableMapping.ColumnMappings.Add("计发比例", "计发比例");
-            tableMapping.ColumnMappings.Add("婚姻状况", "婚姻状况");
-            tableMapping.ColumnMappings.Add("子女状况", "子女状况");
-            tableMapping.ColumnMappings.Add("享受住房补贴状况", "享受住房补贴状况");
-            tableMapping.ColumnMappings.Add("伤残等级", "伤残等级");
-            tableMapping.ColumnMappings.Add("提干时间", "提干时间");
-            tableMapping.ColumnMappings.Add("调入时间", "调入时间");
-            tableMapping.ColumnMappings.Add("停供国防费时间", "停供国防费时间");
-            tableMapping.ColumnMappings.Add("选改士官时间", "选改士官时间");
-            tableMapping.ColumnMappings.Add("入伍登记表编号", "入伍登记表编号");
-            tableMapping.ColumnMappings.Add("选改士官提干命令号", "选改士官提干命令号");
-            tableMapping.ColumnMappings.Add("部队驻地", "部队驻地");
-            tableMapping.ColumnMappings.Add("原单位", "原单位");
-            tableMapping.ColumnMappings.Add("供给介绍信编号", "供给介绍信编号");
             tableMapping.ColumnMappings.Add("公民身份证号", "公民身份证号");
-            tableMapping.ColumnMappings.Add("军人保障卡号", "军人保障卡号");
-            tableMapping.ColumnMappings.Add("干部编号", "干部编号");
-            tableMapping.ColumnMappings.Add("人员来源", "人员来源");
             tableMapping.ColumnMappings.Add("储蓄账号", "储蓄账号");
-            tableMapping.ColumnMappings.Add("院校学员", "院校学员");
-            tableMapping.ColumnMappings.Add("学籍号", "学籍号");
-            tableMapping.ColumnMappings.Add("备注", "备注");
-            tableMapping.ColumnMappings.Add("不自动计算医保", "不自动计算医保");
-            tableMapping.ColumnMappings.Add("不自动计算税款", "不自动计算税款");
-            tableMapping.ColumnMappings.Add("不自动计算大病互助保险", "不自动计算大病互助保险");
             this._adapter.TableMappings.Add(tableMapping);
             this._adapter.DeleteCommand = new global::System.Data.OleDb.OleDbCommand();
             this._adapter.DeleteCommand.Connection = this.Connection;
-            this._adapter.DeleteCommand.CommandText = "DELETE FROM `Staff` WHERE ((`ID` = ?) AND ((? = 1 AND `档案号` IS NULL) OR (`档案号` = " +
-                "?)) AND ((? = 1 AND `人员类别` IS NULL) OR (`人员类别` = ?)) AND ((? = 1 AND `姓名` IS NUL" +
-                "L) OR (`姓名` = ?)) AND ((? = 1 AND `结算部门` IS NULL) OR (`结算部门` = ?)) AND ((? = 1 A" +
-                "ND `性别` IS NULL) OR (`性别` = ?)) AND ((? = 1 AND `民族` IS NULL) OR (`民族` = ?)) AND" +
-                " ((? = 1 AND `出生日期` IS NULL) OR (`出生日期` = ?)) AND ((? = 1 AND `入伍地点` IS NULL) OR" +
-                " (`入伍地点` = ?)) AND ((? = 1 AND `文化程度` IS NULL) OR (`文化程度` = ?)) AND ((? = 1 AND " +
-                "`入伍前工龄` IS NULL) OR (`入伍前工龄` = ?)) AND ((? = 1 AND `工作时间` IS NULL) OR (`工作时间` = " +
-                "?)) AND ((? = 1 AND `入伍时间` IS NULL) OR (`入伍时间` = ?)) AND ((? = 1 AND `护教龄` IS NU" +
-                "LL) OR (`护教龄` = ?)) AND ((? = 1 AND `职务等级` IS NULL) OR (`职务等级` = ?)) AND ((? = 1" +
-                " AND `军衔级别` IS NULL) OR (`军衔级别` = ?)) AND ((? = 1 AND `专业技术职务` IS NULL) OR (`专业技" +
-                "术职务` = ?)) AND ((? = 1 AND `离退时间` IS NULL) OR (`离退时间` = ?)) AND ((? = 1 AND `计发比" +
-                "例` IS NULL) OR (`计发比例` = ?)) AND ((? = 1 AND `婚姻状况` IS NULL) OR (`婚姻状况` = ?)) AN" +
-                "D ((? = 1 AND `子女状况` IS NULL) OR (`子女状况` = ?)) AND ((? = 1 AND `享受住房补贴状况` IS NUL" +
-                "L) OR (`享受住房补贴状况` = ?)) AND ((? = 1 AND `伤残等级` IS NULL) OR (`伤残等级` = ?)) AND ((?" +
-                " = 1 AND `提干时间` IS NULL) OR (`提干时间` = ?)) AND ((? = 1 AND `调入时间` IS NULL) OR (`调" +
-                "入时间` = ?)) AND ((? = 1 AND `停供国防费时间` IS NULL) OR (`停供国防费时间` = ?)) AND ((? = 1 AN" +
-                "D `选改士官时间` IS NULL) OR (`选改士官时间` = ?)) AND ((? = 1 AND `入伍登记表编号` IS NULL) OR (`入" +
-                "伍登记表编号` = ?)) AND ((? = 1 AND `选改士官提干命令号` IS NULL) OR (`选改士官提干命令号` = ?)) AND ((?" +
-                " = 1 AND `部队驻地` IS NULL) OR (`部队驻地` = ?)) AND ((? = 1 AND `原单位` IS NULL) OR (`原单" +
-                "位` = ?)) AND ((? = 1 AND `供给介绍信编号` IS NULL) OR (`供给介绍信编号` = ?)) AND ((? = 1 AND " +
-                "`公民身份证号` IS NULL) OR (`公民身份证号` = ?)) AND ((? = 1 AND `军人保障卡号` IS NULL) OR (`军人保障" +
-                "卡号` = ?)) AND ((? = 1 AND `干部编号` IS NULL) OR (`干部编号` = ?)) AND ((? = 1 AND `人员来源" +
-                "` IS NULL) OR (`人员来源` = ?)) AND ((? = 1 AND `储蓄账号` IS NULL) OR (`储蓄账号` = ?)) AND" +
-                " ((? = 1 AND `院校学员` IS NULL) OR (`院校学员` = ?)) AND ((? = 1 AND `学籍号` IS NULL) OR " +
-                "(`学籍号` = ?)) AND ((? = 1 AND `备注` IS NULL) OR (`备注` = ?)) AND ((? = 1 AND `不自动计算" +
-                "医保` IS NULL) OR (`不自动计算医保` = ?)) AND ((? = 1 AND `不自动计算税款` IS NULL) OR (`不自动计算税款" +
-                "` = ?)) AND ((? = 1 AND `不自动计算大病互助保险` IS NULL) OR (`不自动计算大病互助保险` = ?)))";
+            this._adapter.DeleteCommand.CommandText = @"DELETE FROM `Staff` WHERE ((`ID` = ?) AND ((? = 1 AND `档案号` IS NULL) OR (`档案号` = ?)) AND ((? = 1 AND `人员类别` IS NULL) OR (`人员类别` = ?)) AND ((? = 1 AND `姓名` IS NULL) OR (`姓名` = ?)) AND ((? = 1 AND `结算部门` IS NULL) OR (`结算部门` = ?)) AND ((? = 1 AND `职务等级` IS NULL) OR (`职务等级` = ?)) AND ((? = 1 AND `军衔级别` IS NULL) OR (`军衔级别` = ?)) AND ((? = 1 AND `公民身份证号` IS NULL) OR (`公民身份证号` = ?)) AND ((? = 1 AND `储蓄账号` IS NULL) OR (`储蓄账号` = ?)))";
             this._adapter.DeleteCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_ID", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "ID", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_档案号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "档案号", global::System.Data.DataRowVersion.Original, true, null));
@@ -3176,207 +1612,39 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_姓名", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "姓名", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_结算部门", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "结算部门", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_结算部门", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "结算部门", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_性别", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "性别", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_性别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "性别", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_民族", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "民族", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_民族", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "民族", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_出生日期", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "出生日期", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_出生日期", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "出生日期", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍地点", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍地点", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍地点", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍地点", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_文化程度", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "文化程度", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_文化程度", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "文化程度", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍前工龄", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍前工龄", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍前工龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍前工龄", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_工作时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "工作时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_工作时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "工作时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_护教龄", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "护教龄", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_护教龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "护教龄", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_职务等级", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "职务等级", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_职务等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "职务等级", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_军衔级别", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军衔级别", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_军衔级别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军衔级别", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_专业技术职务", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "专业技术职务", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_专业技术职务", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "专业技术职务", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_离退时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "离退时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_离退时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "离退时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_计发比例", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "计发比例", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_计发比例", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "计发比例", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_婚姻状况", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "婚姻状况", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_婚姻状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "婚姻状况", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_子女状况", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "子女状况", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_子女状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "子女状况", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_享受住房补贴状况", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "享受住房补贴状况", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_享受住房补贴状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "享受住房补贴状况", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_伤残等级", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "伤残等级", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_伤残等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "伤残等级", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_提干时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "提干时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_提干时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "提干时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_调入时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "调入时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_调入时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "调入时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_停供国防费时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "停供国防费时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_停供国防费时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "停供国防费时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_选改士官时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_选改士官时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍登记表编号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍登记表编号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍登记表编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍登记表编号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_选改士官提干命令号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官提干命令号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_选改士官提干命令号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官提干命令号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_部队驻地", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "部队驻地", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_部队驻地", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "部队驻地", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_原单位", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "原单位", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_原单位", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "原单位", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_供给介绍信编号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "供给介绍信编号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_供给介绍信编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "供给介绍信编号", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_公民身份证号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_公民身份证号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_军人保障卡号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军人保障卡号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_军人保障卡号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军人保障卡号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_干部编号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "干部编号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_干部编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "干部编号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_人员来源", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员来源", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_人员来源", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员来源", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_储蓄账号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "储蓄账号", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_储蓄账号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "储蓄账号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_院校学员", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "院校学员", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_院校学员", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "院校学员", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_学籍号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "学籍号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_学籍号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "学籍号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_备注", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "备注", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_备注", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "备注", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_不自动计算医保", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算医保", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_不自动计算医保", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算医保", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_不自动计算税款", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算税款", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_不自动计算税款", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算税款", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_不自动计算大病互助保险", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算大病互助保险", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_不自动计算大病互助保险", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算大病互助保险", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.InsertCommand = new global::System.Data.OleDb.OleDbCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
-            this._adapter.InsertCommand.CommandText = @"INSERT INTO `Staff` (`档案号`, `人员类别`, `姓名`, `结算部门`, `性别`, `民族`, `出生日期`, `入伍地点`, `文化程度`, `入伍前工龄`, `工作时间`, `入伍时间`, `护教龄`, `职务等级`, `军衔级别`, `专业技术职务`, `离退时间`, `计发比例`, `婚姻状况`, `子女状况`, `享受住房补贴状况`, `伤残等级`, `提干时间`, `调入时间`, `停供国防费时间`, `选改士官时间`, `入伍登记表编号`, `选改士官提干命令号`, `部队驻地`, `原单位`, `供给介绍信编号`, `公民身份证号`, `军人保障卡号`, `干部编号`, `人员来源`, `储蓄账号`, `院校学员`, `学籍号`, `备注`, `不自动计算医保`, `不自动计算税款`, `不自动计算大病互助保险`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+            this._adapter.InsertCommand.CommandText = "INSERT INTO `Staff` (`档案号`, `人员类别`, `姓名`, `结算部门`, `职务等级`, `军衔级别`, `公民身份证号`, `储蓄账号" +
+                "`) VALUES (?, ?, ?, ?, ?, ?, ?, ?)";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("档案号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "档案号", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("人员类别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员类别", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("姓名", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "姓名", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("结算部门", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "结算部门", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("性别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "性别", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("民族", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "民族", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("出生日期", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "出生日期", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍地点", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍地点", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("文化程度", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "文化程度", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍前工龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍前工龄", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("工作时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "工作时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("护教龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "护教龄", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("职务等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "职务等级", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("军衔级别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军衔级别", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("专业技术职务", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "专业技术职务", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("离退时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "离退时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("计发比例", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "计发比例", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("婚姻状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "婚姻状况", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("子女状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "子女状况", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("享受住房补贴状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "享受住房补贴状况", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("伤残等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "伤残等级", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("提干时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "提干时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("调入时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "调入时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("停供国防费时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "停供国防费时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("选改士官时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍登记表编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍登记表编号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("选改士官提干命令号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官提干命令号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("部队驻地", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "部队驻地", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("原单位", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "原单位", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("供给介绍信编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "供给介绍信编号", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("公民身份证号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("军人保障卡号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军人保障卡号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("干部编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "干部编号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("人员来源", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员来源", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("储蓄账号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "储蓄账号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("院校学员", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "院校学员", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("学籍号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "学籍号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("备注", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "备注", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("不自动计算医保", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算医保", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("不自动计算税款", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算税款", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("不自动计算大病互助保险", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算大病互助保险", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand = new global::System.Data.OleDb.OleDbCommand();
             this._adapter.UpdateCommand.Connection = this.Connection;
-            this._adapter.UpdateCommand.CommandText = "UPDATE `Staff` SET `档案号` = ?, `人员类别` = ?, `姓名` = ?, `结算部门` = ?, `性别` = ?, `民族` = " +
-                "?, `出生日期` = ?, `入伍地点` = ?, `文化程度` = ?, `入伍前工龄` = ?, `工作时间` = ?, `入伍时间` = ?, `护教龄" +
-                "` = ?, `职务等级` = ?, `军衔级别` = ?, `专业技术职务` = ?, `离退时间` = ?, `计发比例` = ?, `婚姻状况` = ?," +
-                " `子女状况` = ?, `享受住房补贴状况` = ?, `伤残等级` = ?, `提干时间` = ?, `调入时间` = ?, `停供国防费时间` = ?, " +
-                "`选改士官时间` = ?, `入伍登记表编号` = ?, `选改士官提干命令号` = ?, `部队驻地` = ?, `原单位` = ?, `供给介绍信编号` =" +
-                " ?, `公民身份证号` = ?, `军人保障卡号` = ?, `干部编号` = ?, `人员来源` = ?, `储蓄账号` = ?, `院校学员` = ?, " +
-                "`学籍号` = ?, `备注` = ?, `不自动计算医保` = ?, `不自动计算税款` = ?, `不自动计算大病互助保险` = ? WHERE ((`ID" +
-                "` = ?) AND ((? = 1 AND `档案号` IS NULL) OR (`档案号` = ?)) AND ((? = 1 AND `人员类别` IS " +
-                "NULL) OR (`人员类别` = ?)) AND ((? = 1 AND `姓名` IS NULL) OR (`姓名` = ?)) AND ((? = 1 " +
-                "AND `结算部门` IS NULL) OR (`结算部门` = ?)) AND ((? = 1 AND `性别` IS NULL) OR (`性别` = ?)" +
-                ") AND ((? = 1 AND `民族` IS NULL) OR (`民族` = ?)) AND ((? = 1 AND `出生日期` IS NULL) O" +
-                "R (`出生日期` = ?)) AND ((? = 1 AND `入伍地点` IS NULL) OR (`入伍地点` = ?)) AND ((? = 1 AND" +
-                " `文化程度` IS NULL) OR (`文化程度` = ?)) AND ((? = 1 AND `入伍前工龄` IS NULL) OR (`入伍前工龄` =" +
-                " ?)) AND ((? = 1 AND `工作时间` IS NULL) OR (`工作时间` = ?)) AND ((? = 1 AND `入伍时间` IS " +
-                "NULL) OR (`入伍时间` = ?)) AND ((? = 1 AND `护教龄` IS NULL) OR (`护教龄` = ?)) AND ((? = " +
-                "1 AND `职务等级` IS NULL) OR (`职务等级` = ?)) AND ((? = 1 AND `军衔级别` IS NULL) OR (`军衔级别" +
-                "` = ?)) AND ((? = 1 AND `专业技术职务` IS NULL) OR (`专业技术职务` = ?)) AND ((? = 1 AND `离退" +
-                "时间` IS NULL) OR (`离退时间` = ?)) AND ((? = 1 AND `计发比例` IS NULL) OR (`计发比例` = ?)) A" +
-                "ND ((? = 1 AND `婚姻状况` IS NULL) OR (`婚姻状况` = ?)) AND ((? = 1 AND `子女状况` IS NULL) " +
-                "OR (`子女状况` = ?)) AND ((? = 1 AND `享受住房补贴状况` IS NULL) OR (`享受住房补贴状况` = ?)) AND ((" +
-                "? = 1 AND `伤残等级` IS NULL) OR (`伤残等级` = ?)) AND ((? = 1 AND `提干时间` IS NULL) OR (`" +
-                "提干时间` = ?)) AND ((? = 1 AND `调入时间` IS NULL) OR (`调入时间` = ?)) AND ((? = 1 AND `停供" +
-                "国防费时间` IS NULL) OR (`停供国防费时间` = ?)) AND ((? = 1 AND `选改士官时间` IS NULL) OR (`选改士官时" +
-                "间` = ?)) AND ((? = 1 AND `入伍登记表编号` IS NULL) OR (`入伍登记表编号` = ?)) AND ((? = 1 AND " +
-                "`选改士官提干命令号` IS NULL) OR (`选改士官提干命令号` = ?)) AND ((? = 1 AND `部队驻地` IS NULL) OR (`" +
-                "部队驻地` = ?)) AND ((? = 1 AND `原单位` IS NULL) OR (`原单位` = ?)) AND ((? = 1 AND `供给介绍" +
-                "信编号` IS NULL) OR (`供给介绍信编号` = ?)) AND ((? = 1 AND `公民身份证号` IS NULL) OR (`公民身份证号`" +
-                " = ?)) AND ((? = 1 AND `军人保障卡号` IS NULL) OR (`军人保障卡号` = ?)) AND ((? = 1 AND `干部编" +
-                "号` IS NULL) OR (`干部编号` = ?)) AND ((? = 1 AND `人员来源` IS NULL) OR (`人员来源` = ?)) AN" +
-                "D ((? = 1 AND `储蓄账号` IS NULL) OR (`储蓄账号` = ?)) AND ((? = 1 AND `院校学员` IS NULL) O" +
-                "R (`院校学员` = ?)) AND ((? = 1 AND `学籍号` IS NULL) OR (`学籍号` = ?)) AND ((? = 1 AND `" +
-                "备注` IS NULL) OR (`备注` = ?)) AND ((? = 1 AND `不自动计算医保` IS NULL) OR (`不自动计算医保` = ?" +
-                ")) AND ((? = 1 AND `不自动计算税款` IS NULL) OR (`不自动计算税款` = ?)) AND ((? = 1 AND `不自动计算" +
-                "大病互助保险` IS NULL) OR (`不自动计算大病互助保险` = ?)))";
+            this._adapter.UpdateCommand.CommandText = @"UPDATE `Staff` SET `档案号` = ?, `人员类别` = ?, `姓名` = ?, `结算部门` = ?, `职务等级` = ?, `军衔级别` = ?, `公民身份证号` = ?, `储蓄账号` = ? WHERE ((`ID` = ?) AND ((? = 1 AND `档案号` IS NULL) OR (`档案号` = ?)) AND ((? = 1 AND `人员类别` IS NULL) OR (`人员类别` = ?)) AND ((? = 1 AND `姓名` IS NULL) OR (`姓名` = ?)) AND ((? = 1 AND `结算部门` IS NULL) OR (`结算部门` = ?)) AND ((? = 1 AND `职务等级` IS NULL) OR (`职务等级` = ?)) AND ((? = 1 AND `军衔级别` IS NULL) OR (`军衔级别` = ?)) AND ((? = 1 AND `公民身份证号` IS NULL) OR (`公民身份证号` = ?)) AND ((? = 1 AND `储蓄账号` IS NULL) OR (`储蓄账号` = ?)))";
             this._adapter.UpdateCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("档案号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "档案号", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("人员类别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员类别", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("姓名", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "姓名", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("结算部门", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "结算部门", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("性别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "性别", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("民族", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "民族", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("出生日期", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "出生日期", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍地点", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍地点", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("文化程度", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "文化程度", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍前工龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍前工龄", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("工作时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "工作时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("护教龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "护教龄", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("职务等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "职务等级", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("军衔级别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军衔级别", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("专业技术职务", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "专业技术职务", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("离退时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "离退时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("计发比例", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "计发比例", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("婚姻状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "婚姻状况", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("子女状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "子女状况", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("享受住房补贴状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "享受住房补贴状况", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("伤残等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "伤残等级", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("提干时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "提干时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("调入时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "调入时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("停供国防费时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "停供国防费时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("选改士官时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官时间", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("入伍登记表编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍登记表编号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("选改士官提干命令号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官提干命令号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("部队驻地", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "部队驻地", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("原单位", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "原单位", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("供给介绍信编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "供给介绍信编号", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("公民身份证号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("军人保障卡号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军人保障卡号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("干部编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "干部编号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("人员来源", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员来源", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("储蓄账号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "储蓄账号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("院校学员", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "院校学员", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("学籍号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "学籍号", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("备注", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "备注", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("不自动计算医保", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算医保", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("不自动计算税款", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算税款", global::System.Data.DataRowVersion.Current, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("不自动计算大病互助保险", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算大病互助保险", global::System.Data.DataRowVersion.Current, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_ID", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "ID", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_档案号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "档案号", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_档案号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "档案号", global::System.Data.DataRowVersion.Original, false, null));
@@ -3386,82 +1654,14 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_姓名", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "姓名", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_结算部门", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "结算部门", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_结算部门", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "结算部门", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_性别", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "性别", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_性别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "性别", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_民族", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "民族", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_民族", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "民族", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_出生日期", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "出生日期", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_出生日期", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "出生日期", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍地点", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍地点", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍地点", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍地点", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_文化程度", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "文化程度", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_文化程度", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "文化程度", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍前工龄", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍前工龄", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍前工龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍前工龄", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_工作时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "工作时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_工作时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "工作时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_护教龄", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "护教龄", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_护教龄", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "护教龄", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_职务等级", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "职务等级", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_职务等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "职务等级", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_军衔级别", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军衔级别", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_军衔级别", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军衔级别", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_专业技术职务", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "专业技术职务", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_专业技术职务", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "专业技术职务", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_离退时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "离退时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_离退时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "离退时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_计发比例", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "计发比例", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_计发比例", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "计发比例", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_婚姻状况", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "婚姻状况", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_婚姻状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "婚姻状况", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_子女状况", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "子女状况", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_子女状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "子女状况", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_享受住房补贴状况", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "享受住房补贴状况", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_享受住房补贴状况", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "享受住房补贴状况", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_伤残等级", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "伤残等级", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_伤残等级", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "伤残等级", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_提干时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "提干时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_提干时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "提干时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_调入时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "调入时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_调入时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "调入时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_停供国防费时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "停供国防费时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_停供国防费时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "停供国防费时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_选改士官时间", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官时间", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_选改士官时间", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官时间", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_入伍登记表编号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍登记表编号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_入伍登记表编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "入伍登记表编号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_选改士官提干命令号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官提干命令号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_选改士官提干命令号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "选改士官提干命令号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_部队驻地", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "部队驻地", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_部队驻地", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "部队驻地", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_原单位", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "原单位", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_原单位", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "原单位", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_供给介绍信编号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "供给介绍信编号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_供给介绍信编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "供给介绍信编号", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_公民身份证号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_公民身份证号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_军人保障卡号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军人保障卡号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_军人保障卡号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "军人保障卡号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_干部编号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "干部编号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_干部编号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "干部编号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_人员来源", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员来源", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_人员来源", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "人员来源", global::System.Data.DataRowVersion.Original, false, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_储蓄账号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "储蓄账号", global::System.Data.DataRowVersion.Original, true, null));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_储蓄账号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "储蓄账号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_院校学员", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "院校学员", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_院校学员", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "院校学员", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_学籍号", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "学籍号", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_学籍号", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "学籍号", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_备注", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "备注", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_备注", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "备注", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_不自动计算医保", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算医保", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_不自动计算医保", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算医保", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_不自动计算税款", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算税款", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_不自动计算税款", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算税款", global::System.Data.DataRowVersion.Original, false, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("IsNull_不自动计算大病互助保险", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算大病互助保险", global::System.Data.DataRowVersion.Original, true, null));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.OleDb.OleDbParameter("Original_不自动计算大病互助保险", global::System.Data.OleDb.OleDbType.VarWChar, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "不自动计算大病互助保险", global::System.Data.DataRowVersion.Original, false, null));
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3477,16 +1677,18 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             this._commandCollection = new global::System.Data.OleDb.OleDbCommand[5];
             this._commandCollection[0] = new global::System.Data.OleDb.OleDbCommand();
             this._commandCollection[0].Connection = this.Connection;
-            this._commandCollection[0].CommandText = @"SELECT ID, 档案号, 人员类别, 姓名, 结算部门, 性别, 民族, 出生日期, 入伍地点, 文化程度, 入伍前工龄, 工作时间, 入伍时间, 护教龄, 职务等级, 军衔级别, 专业技术职务, 离退时间, 计发比例, 婚姻状况, 子女状况, 享受住房补贴状况, 伤残等级, 提干时间, 调入时间, 停供国防费时间, 选改士官时间, 入伍登记表编号, 选改士官提干命令号, 部队驻地, 原单位, 供给介绍信编号, 公民身份证号, 军人保障卡号, 干部编号, 人员来源, 储蓄账号, 院校学员, 学籍号, 备注, 不自动计算医保, 不自动计算税款, 不自动计算大病互助保险 FROM Staff";
+            this._commandCollection[0].CommandText = "SELECT ID, 档案号, 人员类别, 姓名, 结算部门, 职务等级, 军衔级别, 公民身份证号, 储蓄账号 FROM Staff";
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1] = new global::System.Data.OleDb.OleDbCommand();
             this._commandCollection[1].Connection = this.Connection;
-            this._commandCollection[1].CommandText = @"SELECT ID, 档案号, 人员类别, 姓名, 结算部门, 性别, 民族, 出生日期, 入伍地点, 文化程度, 入伍前工龄, 工作时间, 入伍时间, 护教龄, 职务等级, 军衔级别, 专业技术职务, 离退时间, 计发比例, 婚姻状况, 子女状况, 享受住房补贴状况, 伤残等级, 提干时间, 调入时间, 停供国防费时间, 选改士官时间, 入伍登记表编号, 选改士官提干命令号, 部队驻地, 原单位, 供给介绍信编号, 公民身份证号, 军人保障卡号, 干部编号, 人员来源, 储蓄账号, 院校学员, 学籍号, 备注, 不自动计算医保, 不自动计算税款, 不自动计算大病互助保险 FROM Staff where 档案号 = ?";
+            this._commandCollection[1].CommandText = "SELECT ID, 档案号, 人员类别, 姓名, 结算部门, 职务等级, 军衔级别, 公民身份证号, 储蓄账号 FROM Staff WHERE (档案号 = " +
+                "?)";
             this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1].Parameters.Add(new global::System.Data.OleDb.OleDbParameter("档案号", global::System.Data.OleDb.OleDbType.WChar, 255, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "档案号", global::System.Data.DataRowVersion.Current, false, null));
             this._commandCollection[2] = new global::System.Data.OleDb.OleDbCommand();
             this._commandCollection[2].Connection = this.Connection;
-            this._commandCollection[2].CommandText = @"SELECT ID, 档案号, 人员类别, 姓名, 结算部门, 性别, 民族, 出生日期, 入伍地点, 文化程度, 入伍前工龄, 工作时间, 入伍时间, 护教龄, 职务等级, 军衔级别, 专业技术职务, 离退时间, 计发比例, 婚姻状况, 子女状况, 享受住房补贴状况, 伤残等级, 提干时间, 调入时间, 停供国防费时间, 选改士官时间, 入伍登记表编号, 选改士官提干命令号, 部队驻地, 原单位, 供给介绍信编号, 公民身份证号, 军人保障卡号, 干部编号, 人员来源, 储蓄账号, 院校学员, 学籍号, 备注, 不自动计算医保, 不自动计算税款, 不自动计算大病互助保险 FROM Staff where 公民身份证号 = ?";
+            this._commandCollection[2].CommandText = "SELECT ID, 档案号, 人员类别, 姓名, 结算部门, 职务等级, 军衔级别, 公民身份证号, 储蓄账号 FROM Staff WHERE (公民身份证号" +
+                " = ?)";
             this._commandCollection[2].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[2].Parameters.Add(new global::System.Data.OleDb.OleDbParameter("公民身份证号", global::System.Data.OleDb.OleDbType.WChar, 255, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Current, false, null));
             this._commandCollection[3] = new global::System.Data.OleDb.OleDbCommand();
@@ -3496,7 +1698,7 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             this._commandCollection[3].Parameters.Add(new global::System.Data.OleDb.OleDbParameter("公民身份证号", global::System.Data.OleDb.OleDbType.WChar, 255, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "公民身份证号", global::System.Data.DataRowVersion.Current, false, null));
             this._commandCollection[4] = new global::System.Data.OleDb.OleDbCommand();
             this._commandCollection[4].Connection = this.Connection;
-            this._commandCollection[4].CommandText = "SELECT Id FROM Staff where 姓名 = ?";
+            this._commandCollection[4].CommandText = "SELECT ID FROM Staff WHERE (姓名 = ?)";
             this._commandCollection[4].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[4].Parameters.Add(new global::System.Data.OleDb.OleDbParameter("姓名", global::System.Data.OleDb.OleDbType.WChar, 255, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "姓名", global::System.Data.DataRowVersion.Current, false, null));
         }
@@ -3630,50 +1832,7 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Delete, true)]
-        public virtual int Delete(
-                    int Original_ID, 
-                    string Original_档案号, 
-                    string Original_人员类别, 
-                    string Original_姓名, 
-                    string Original_结算部门, 
-                    string Original_性别, 
-                    string Original_民族, 
-                    string Original_出生日期, 
-                    string Original_入伍地点, 
-                    string Original_文化程度, 
-                    string Original_入伍前工龄, 
-                    string Original_工作时间, 
-                    string Original_入伍时间, 
-                    string Original_护教龄, 
-                    string Original_职务等级, 
-                    string Original_军衔级别, 
-                    string Original_专业技术职务, 
-                    string Original_离退时间, 
-                    string Original_计发比例, 
-                    string Original_婚姻状况, 
-                    string Original_子女状况, 
-                    string Original_享受住房补贴状况, 
-                    string Original_伤残等级, 
-                    string Original_提干时间, 
-                    string Original_调入时间, 
-                    string Original_停供国防费时间, 
-                    string Original_选改士官时间, 
-                    string Original_入伍登记表编号, 
-                    string Original_选改士官提干命令号, 
-                    string Original_部队驻地, 
-                    string Original_原单位, 
-                    string Original_供给介绍信编号, 
-                    string Original_公民身份证号, 
-                    string Original_军人保障卡号, 
-                    string Original_干部编号, 
-                    string Original_人员来源, 
-                    string Original_储蓄账号, 
-                    string Original_院校学员, 
-                    string Original_学籍号, 
-                    string Original_备注, 
-                    string Original_不自动计算医保, 
-                    string Original_不自动计算税款, 
-                    string Original_不自动计算大病互助保险) {
+        public virtual int Delete(int Original_ID, string Original_档案号, string Original_人员类别, string Original_姓名, string Original_结算部门, string Original_职务等级, string Original_军衔级别, string Original_公民身份证号, string Original_储蓄账号) {
             this.Adapter.DeleteCommand.Parameters[0].Value = ((int)(Original_ID));
             if ((Original_档案号 == null)) {
                 this.Adapter.DeleteCommand.Parameters[1].Value = ((object)(1));
@@ -3707,309 +1866,37 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
                 this.Adapter.DeleteCommand.Parameters[7].Value = ((object)(0));
                 this.Adapter.DeleteCommand.Parameters[8].Value = ((string)(Original_结算部门));
             }
-            if ((Original_性别 == null)) {
+            if ((Original_职务等级 == null)) {
                 this.Adapter.DeleteCommand.Parameters[9].Value = ((object)(1));
                 this.Adapter.DeleteCommand.Parameters[10].Value = global::System.DBNull.Value;
             }
             else {
                 this.Adapter.DeleteCommand.Parameters[9].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[10].Value = ((string)(Original_性别));
+                this.Adapter.DeleteCommand.Parameters[10].Value = ((string)(Original_职务等级));
             }
-            if ((Original_民族 == null)) {
+            if ((Original_军衔级别 == null)) {
                 this.Adapter.DeleteCommand.Parameters[11].Value = ((object)(1));
                 this.Adapter.DeleteCommand.Parameters[12].Value = global::System.DBNull.Value;
             }
             else {
                 this.Adapter.DeleteCommand.Parameters[11].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[12].Value = ((string)(Original_民族));
+                this.Adapter.DeleteCommand.Parameters[12].Value = ((string)(Original_军衔级别));
             }
-            if ((Original_出生日期 == null)) {
+            if ((Original_公民身份证号 == null)) {
                 this.Adapter.DeleteCommand.Parameters[13].Value = ((object)(1));
                 this.Adapter.DeleteCommand.Parameters[14].Value = global::System.DBNull.Value;
             }
             else {
                 this.Adapter.DeleteCommand.Parameters[13].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[14].Value = ((string)(Original_出生日期));
+                this.Adapter.DeleteCommand.Parameters[14].Value = ((string)(Original_公民身份证号));
             }
-            if ((Original_入伍地点 == null)) {
+            if ((Original_储蓄账号 == null)) {
                 this.Adapter.DeleteCommand.Parameters[15].Value = ((object)(1));
                 this.Adapter.DeleteCommand.Parameters[16].Value = global::System.DBNull.Value;
             }
             else {
                 this.Adapter.DeleteCommand.Parameters[15].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[16].Value = ((string)(Original_入伍地点));
-            }
-            if ((Original_文化程度 == null)) {
-                this.Adapter.DeleteCommand.Parameters[17].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[18].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[17].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[18].Value = ((string)(Original_文化程度));
-            }
-            if ((Original_入伍前工龄 == null)) {
-                this.Adapter.DeleteCommand.Parameters[19].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[20].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[19].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[20].Value = ((string)(Original_入伍前工龄));
-            }
-            if ((Original_工作时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[21].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[22].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[21].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[22].Value = ((string)(Original_工作时间));
-            }
-            if ((Original_入伍时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[23].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[24].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[23].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[24].Value = ((string)(Original_入伍时间));
-            }
-            if ((Original_护教龄 == null)) {
-                this.Adapter.DeleteCommand.Parameters[25].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[26].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[25].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[26].Value = ((string)(Original_护教龄));
-            }
-            if ((Original_职务等级 == null)) {
-                this.Adapter.DeleteCommand.Parameters[27].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[28].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[27].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[28].Value = ((string)(Original_职务等级));
-            }
-            if ((Original_军衔级别 == null)) {
-                this.Adapter.DeleteCommand.Parameters[29].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[30].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[29].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[30].Value = ((string)(Original_军衔级别));
-            }
-            if ((Original_专业技术职务 == null)) {
-                this.Adapter.DeleteCommand.Parameters[31].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[32].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[31].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[32].Value = ((string)(Original_专业技术职务));
-            }
-            if ((Original_离退时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[33].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[34].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[33].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[34].Value = ((string)(Original_离退时间));
-            }
-            if ((Original_计发比例 == null)) {
-                this.Adapter.DeleteCommand.Parameters[35].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[36].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[35].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[36].Value = ((string)(Original_计发比例));
-            }
-            if ((Original_婚姻状况 == null)) {
-                this.Adapter.DeleteCommand.Parameters[37].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[38].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[37].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[38].Value = ((string)(Original_婚姻状况));
-            }
-            if ((Original_子女状况 == null)) {
-                this.Adapter.DeleteCommand.Parameters[39].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[40].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[39].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[40].Value = ((string)(Original_子女状况));
-            }
-            if ((Original_享受住房补贴状况 == null)) {
-                this.Adapter.DeleteCommand.Parameters[41].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[42].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[41].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[42].Value = ((string)(Original_享受住房补贴状况));
-            }
-            if ((Original_伤残等级 == null)) {
-                this.Adapter.DeleteCommand.Parameters[43].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[44].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[43].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[44].Value = ((string)(Original_伤残等级));
-            }
-            if ((Original_提干时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[45].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[46].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[45].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[46].Value = ((string)(Original_提干时间));
-            }
-            if ((Original_调入时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[47].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[48].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[47].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[48].Value = ((string)(Original_调入时间));
-            }
-            if ((Original_停供国防费时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[49].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[50].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[49].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[50].Value = ((string)(Original_停供国防费时间));
-            }
-            if ((Original_选改士官时间 == null)) {
-                this.Adapter.DeleteCommand.Parameters[51].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[52].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[51].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[52].Value = ((string)(Original_选改士官时间));
-            }
-            if ((Original_入伍登记表编号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[53].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[54].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[53].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[54].Value = ((string)(Original_入伍登记表编号));
-            }
-            if ((Original_选改士官提干命令号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[55].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[56].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[55].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[56].Value = ((string)(Original_选改士官提干命令号));
-            }
-            if ((Original_部队驻地 == null)) {
-                this.Adapter.DeleteCommand.Parameters[57].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[58].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[57].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[58].Value = ((string)(Original_部队驻地));
-            }
-            if ((Original_原单位 == null)) {
-                this.Adapter.DeleteCommand.Parameters[59].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[60].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[59].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[60].Value = ((string)(Original_原单位));
-            }
-            if ((Original_供给介绍信编号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[61].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[62].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[61].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[62].Value = ((string)(Original_供给介绍信编号));
-            }
-            if ((Original_公民身份证号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[63].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[64].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[63].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[64].Value = ((string)(Original_公民身份证号));
-            }
-            if ((Original_军人保障卡号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[65].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[66].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[65].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[66].Value = ((string)(Original_军人保障卡号));
-            }
-            if ((Original_干部编号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[67].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[68].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[67].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[68].Value = ((string)(Original_干部编号));
-            }
-            if ((Original_人员来源 == null)) {
-                this.Adapter.DeleteCommand.Parameters[69].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[70].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[69].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[70].Value = ((string)(Original_人员来源));
-            }
-            if ((Original_储蓄账号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[71].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[72].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[71].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[72].Value = ((string)(Original_储蓄账号));
-            }
-            if ((Original_院校学员 == null)) {
-                this.Adapter.DeleteCommand.Parameters[73].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[74].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[73].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[74].Value = ((string)(Original_院校学员));
-            }
-            if ((Original_学籍号 == null)) {
-                this.Adapter.DeleteCommand.Parameters[75].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[76].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[75].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[76].Value = ((string)(Original_学籍号));
-            }
-            if ((Original_备注 == null)) {
-                this.Adapter.DeleteCommand.Parameters[77].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[78].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[77].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[78].Value = ((string)(Original_备注));
-            }
-            if ((Original_不自动计算医保 == null)) {
-                this.Adapter.DeleteCommand.Parameters[79].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[80].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[79].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[80].Value = ((string)(Original_不自动计算医保));
-            }
-            if ((Original_不自动计算税款 == null)) {
-                this.Adapter.DeleteCommand.Parameters[81].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[82].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[81].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[82].Value = ((string)(Original_不自动计算税款));
-            }
-            if ((Original_不自动计算大病互助保险 == null)) {
-                this.Adapter.DeleteCommand.Parameters[83].Value = ((object)(1));
-                this.Adapter.DeleteCommand.Parameters[84].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.DeleteCommand.Parameters[83].Value = ((object)(0));
-                this.Adapter.DeleteCommand.Parameters[84].Value = ((string)(Original_不自动计算大病互助保险));
+                this.Adapter.DeleteCommand.Parameters[16].Value = ((string)(Original_储蓄账号));
             }
             global::System.Data.ConnectionState previousConnectionState = this.Adapter.DeleteCommand.Connection.State;
             if (((this.Adapter.DeleteCommand.Connection.State & global::System.Data.ConnectionState.Open) 
@@ -4031,49 +1918,7 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Insert, true)]
-        public virtual int Insert(
-                    string 档案号, 
-                    string 人员类别, 
-                    string 姓名, 
-                    string 结算部门, 
-                    string 性别, 
-                    string 民族, 
-                    string 出生日期, 
-                    string 入伍地点, 
-                    string 文化程度, 
-                    string 入伍前工龄, 
-                    string 工作时间, 
-                    string 入伍时间, 
-                    string 护教龄, 
-                    string 职务等级, 
-                    string 军衔级别, 
-                    string 专业技术职务, 
-                    string 离退时间, 
-                    string 计发比例, 
-                    string 婚姻状况, 
-                    string 子女状况, 
-                    string 享受住房补贴状况, 
-                    string 伤残等级, 
-                    string 提干时间, 
-                    string 调入时间, 
-                    string 停供国防费时间, 
-                    string 选改士官时间, 
-                    string 入伍登记表编号, 
-                    string 选改士官提干命令号, 
-                    string 部队驻地, 
-                    string 原单位, 
-                    string 供给介绍信编号, 
-                    string 公民身份证号, 
-                    string 军人保障卡号, 
-                    string 干部编号, 
-                    string 人员来源, 
-                    string 储蓄账号, 
-                    string 院校学员, 
-                    string 学籍号, 
-                    string 备注, 
-                    string 不自动计算医保, 
-                    string 不自动计算税款, 
-                    string 不自动计算大病互助保险) {
+        public virtual int Insert(string 档案号, string 人员类别, string 姓名, string 结算部门, string 职务等级, string 军衔级别, string 公民身份证号, string 储蓄账号) {
             if ((档案号 == null)) {
                 this.Adapter.InsertCommand.Parameters[0].Value = global::System.DBNull.Value;
             }
@@ -4098,233 +1943,29 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             else {
                 this.Adapter.InsertCommand.Parameters[3].Value = ((string)(结算部门));
             }
-            if ((性别 == null)) {
+            if ((职务等级 == null)) {
                 this.Adapter.InsertCommand.Parameters[4].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.InsertCommand.Parameters[4].Value = ((string)(性别));
+                this.Adapter.InsertCommand.Parameters[4].Value = ((string)(职务等级));
             }
-            if ((民族 == null)) {
+            if ((军衔级别 == null)) {
                 this.Adapter.InsertCommand.Parameters[5].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.InsertCommand.Parameters[5].Value = ((string)(民族));
+                this.Adapter.InsertCommand.Parameters[5].Value = ((string)(军衔级别));
             }
-            if ((出生日期 == null)) {
+            if ((公民身份证号 == null)) {
                 this.Adapter.InsertCommand.Parameters[6].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.InsertCommand.Parameters[6].Value = ((string)(出生日期));
+                this.Adapter.InsertCommand.Parameters[6].Value = ((string)(公民身份证号));
             }
-            if ((入伍地点 == null)) {
+            if ((储蓄账号 == null)) {
                 this.Adapter.InsertCommand.Parameters[7].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.InsertCommand.Parameters[7].Value = ((string)(入伍地点));
-            }
-            if ((文化程度 == null)) {
-                this.Adapter.InsertCommand.Parameters[8].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[8].Value = ((string)(文化程度));
-            }
-            if ((入伍前工龄 == null)) {
-                this.Adapter.InsertCommand.Parameters[9].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[9].Value = ((string)(入伍前工龄));
-            }
-            if ((工作时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[10].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[10].Value = ((string)(工作时间));
-            }
-            if ((入伍时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[11].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[11].Value = ((string)(入伍时间));
-            }
-            if ((护教龄 == null)) {
-                this.Adapter.InsertCommand.Parameters[12].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[12].Value = ((string)(护教龄));
-            }
-            if ((职务等级 == null)) {
-                this.Adapter.InsertCommand.Parameters[13].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[13].Value = ((string)(职务等级));
-            }
-            if ((军衔级别 == null)) {
-                this.Adapter.InsertCommand.Parameters[14].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[14].Value = ((string)(军衔级别));
-            }
-            if ((专业技术职务 == null)) {
-                this.Adapter.InsertCommand.Parameters[15].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[15].Value = ((string)(专业技术职务));
-            }
-            if ((离退时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[16].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[16].Value = ((string)(离退时间));
-            }
-            if ((计发比例 == null)) {
-                this.Adapter.InsertCommand.Parameters[17].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[17].Value = ((string)(计发比例));
-            }
-            if ((婚姻状况 == null)) {
-                this.Adapter.InsertCommand.Parameters[18].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[18].Value = ((string)(婚姻状况));
-            }
-            if ((子女状况 == null)) {
-                this.Adapter.InsertCommand.Parameters[19].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[19].Value = ((string)(子女状况));
-            }
-            if ((享受住房补贴状况 == null)) {
-                this.Adapter.InsertCommand.Parameters[20].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[20].Value = ((string)(享受住房补贴状况));
-            }
-            if ((伤残等级 == null)) {
-                this.Adapter.InsertCommand.Parameters[21].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[21].Value = ((string)(伤残等级));
-            }
-            if ((提干时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[22].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[22].Value = ((string)(提干时间));
-            }
-            if ((调入时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[23].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[23].Value = ((string)(调入时间));
-            }
-            if ((停供国防费时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[24].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[24].Value = ((string)(停供国防费时间));
-            }
-            if ((选改士官时间 == null)) {
-                this.Adapter.InsertCommand.Parameters[25].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[25].Value = ((string)(选改士官时间));
-            }
-            if ((入伍登记表编号 == null)) {
-                this.Adapter.InsertCommand.Parameters[26].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[26].Value = ((string)(入伍登记表编号));
-            }
-            if ((选改士官提干命令号 == null)) {
-                this.Adapter.InsertCommand.Parameters[27].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[27].Value = ((string)(选改士官提干命令号));
-            }
-            if ((部队驻地 == null)) {
-                this.Adapter.InsertCommand.Parameters[28].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[28].Value = ((string)(部队驻地));
-            }
-            if ((原单位 == null)) {
-                this.Adapter.InsertCommand.Parameters[29].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[29].Value = ((string)(原单位));
-            }
-            if ((供给介绍信编号 == null)) {
-                this.Adapter.InsertCommand.Parameters[30].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[30].Value = ((string)(供给介绍信编号));
-            }
-            if ((公民身份证号 == null)) {
-                this.Adapter.InsertCommand.Parameters[31].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[31].Value = ((string)(公民身份证号));
-            }
-            if ((军人保障卡号 == null)) {
-                this.Adapter.InsertCommand.Parameters[32].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[32].Value = ((string)(军人保障卡号));
-            }
-            if ((干部编号 == null)) {
-                this.Adapter.InsertCommand.Parameters[33].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[33].Value = ((string)(干部编号));
-            }
-            if ((人员来源 == null)) {
-                this.Adapter.InsertCommand.Parameters[34].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[34].Value = ((string)(人员来源));
-            }
-            if ((储蓄账号 == null)) {
-                this.Adapter.InsertCommand.Parameters[35].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[35].Value = ((string)(储蓄账号));
-            }
-            if ((院校学员 == null)) {
-                this.Adapter.InsertCommand.Parameters[36].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[36].Value = ((string)(院校学员));
-            }
-            if ((学籍号 == null)) {
-                this.Adapter.InsertCommand.Parameters[37].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[37].Value = ((string)(学籍号));
-            }
-            if ((备注 == null)) {
-                this.Adapter.InsertCommand.Parameters[38].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[38].Value = ((string)(备注));
-            }
-            if ((不自动计算医保 == null)) {
-                this.Adapter.InsertCommand.Parameters[39].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[39].Value = ((string)(不自动计算医保));
-            }
-            if ((不自动计算税款 == null)) {
-                this.Adapter.InsertCommand.Parameters[40].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[40].Value = ((string)(不自动计算税款));
-            }
-            if ((不自动计算大病互助保险 == null)) {
-                this.Adapter.InsertCommand.Parameters[41].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[41].Value = ((string)(不自动计算大病互助保险));
+                this.Adapter.InsertCommand.Parameters[7].Value = ((string)(储蓄账号));
             }
             global::System.Data.ConnectionState previousConnectionState = this.Adapter.InsertCommand.Connection.State;
             if (((this.Adapter.InsertCommand.Connection.State & global::System.Data.ConnectionState.Open) 
@@ -4351,87 +1992,19 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
                     string 人员类别, 
                     string 姓名, 
                     string 结算部门, 
-                    string 性别, 
-                    string 民族, 
-                    string 出生日期, 
-                    string 入伍地点, 
-                    string 文化程度, 
-                    string 入伍前工龄, 
-                    string 工作时间, 
-                    string 入伍时间, 
-                    string 护教龄, 
                     string 职务等级, 
                     string 军衔级别, 
-                    string 专业技术职务, 
-                    string 离退时间, 
-                    string 计发比例, 
-                    string 婚姻状况, 
-                    string 子女状况, 
-                    string 享受住房补贴状况, 
-                    string 伤残等级, 
-                    string 提干时间, 
-                    string 调入时间, 
-                    string 停供国防费时间, 
-                    string 选改士官时间, 
-                    string 入伍登记表编号, 
-                    string 选改士官提干命令号, 
-                    string 部队驻地, 
-                    string 原单位, 
-                    string 供给介绍信编号, 
                     string 公民身份证号, 
-                    string 军人保障卡号, 
-                    string 干部编号, 
-                    string 人员来源, 
                     string 储蓄账号, 
-                    string 院校学员, 
-                    string 学籍号, 
-                    string 备注, 
-                    string 不自动计算医保, 
-                    string 不自动计算税款, 
-                    string 不自动计算大病互助保险, 
                     int Original_ID, 
                     string Original_档案号, 
                     string Original_人员类别, 
                     string Original_姓名, 
                     string Original_结算部门, 
-                    string Original_性别, 
-                    string Original_民族, 
-                    string Original_出生日期, 
-                    string Original_入伍地点, 
-                    string Original_文化程度, 
-                    string Original_入伍前工龄, 
-                    string Original_工作时间, 
-                    string Original_入伍时间, 
-                    string Original_护教龄, 
                     string Original_职务等级, 
                     string Original_军衔级别, 
-                    string Original_专业技术职务, 
-                    string Original_离退时间, 
-                    string Original_计发比例, 
-                    string Original_婚姻状况, 
-                    string Original_子女状况, 
-                    string Original_享受住房补贴状况, 
-                    string Original_伤残等级, 
-                    string Original_提干时间, 
-                    string Original_调入时间, 
-                    string Original_停供国防费时间, 
-                    string Original_选改士官时间, 
-                    string Original_入伍登记表编号, 
-                    string Original_选改士官提干命令号, 
-                    string Original_部队驻地, 
-                    string Original_原单位, 
-                    string Original_供给介绍信编号, 
                     string Original_公民身份证号, 
-                    string Original_军人保障卡号, 
-                    string Original_干部编号, 
-                    string Original_人员来源, 
-                    string Original_储蓄账号, 
-                    string Original_院校学员, 
-                    string Original_学籍号, 
-                    string Original_备注, 
-                    string Original_不自动计算医保, 
-                    string Original_不自动计算税款, 
-                    string Original_不自动计算大病互助保险) {
+                    string Original_储蓄账号) {
             if ((档案号 == null)) {
                 this.Adapter.UpdateCommand.Parameters[0].Value = global::System.DBNull.Value;
             }
@@ -4456,570 +2029,94 @@ namespace SalaryManagement.SalaryManagementDataSetTableAdapters {
             else {
                 this.Adapter.UpdateCommand.Parameters[3].Value = ((string)(结算部门));
             }
-            if ((性别 == null)) {
+            if ((职务等级 == null)) {
                 this.Adapter.UpdateCommand.Parameters[4].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[4].Value = ((string)(性别));
+                this.Adapter.UpdateCommand.Parameters[4].Value = ((string)(职务等级));
             }
-            if ((民族 == null)) {
+            if ((军衔级别 == null)) {
                 this.Adapter.UpdateCommand.Parameters[5].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[5].Value = ((string)(民族));
+                this.Adapter.UpdateCommand.Parameters[5].Value = ((string)(军衔级别));
             }
-            if ((出生日期 == null)) {
+            if ((公民身份证号 == null)) {
                 this.Adapter.UpdateCommand.Parameters[6].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[6].Value = ((string)(出生日期));
+                this.Adapter.UpdateCommand.Parameters[6].Value = ((string)(公民身份证号));
             }
-            if ((入伍地点 == null)) {
+            if ((储蓄账号 == null)) {
                 this.Adapter.UpdateCommand.Parameters[7].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[7].Value = ((string)(入伍地点));
+                this.Adapter.UpdateCommand.Parameters[7].Value = ((string)(储蓄账号));
             }
-            if ((文化程度 == null)) {
-                this.Adapter.UpdateCommand.Parameters[8].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[8].Value = ((string)(文化程度));
-            }
-            if ((入伍前工龄 == null)) {
-                this.Adapter.UpdateCommand.Parameters[9].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[9].Value = ((string)(入伍前工龄));
-            }
-            if ((工作时间 == null)) {
+            this.Adapter.UpdateCommand.Parameters[8].Value = ((int)(Original_ID));
+            if ((Original_档案号 == null)) {
+                this.Adapter.UpdateCommand.Parameters[9].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[10].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[10].Value = ((string)(工作时间));
+                this.Adapter.UpdateCommand.Parameters[9].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[10].Value = ((string)(Original_档案号));
             }
-            if ((入伍时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[11].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[11].Value = ((string)(入伍时间));
-            }
-            if ((护教龄 == null)) {
+            if ((Original_人员类别 == null)) {
+                this.Adapter.UpdateCommand.Parameters[11].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[12].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[12].Value = ((string)(护教龄));
+                this.Adapter.UpdateCommand.Parameters[11].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[12].Value = ((string)(Original_人员类别));
             }
-            if ((职务等级 == null)) {
-                this.Adapter.UpdateCommand.Parameters[13].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[13].Value = ((string)(职务等级));
-            }
-            if ((军衔级别 == null)) {
+            if ((Original_姓名 == null)) {
+                this.Adapter.UpdateCommand.Parameters[13].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[14].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[14].Value = ((string)(军衔级别));
+                this.Adapter.UpdateCommand.Parameters[13].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[14].Value = ((string)(Original_姓名));
             }
-            if ((专业技术职务 == null)) {
-                this.Adapter.UpdateCommand.Parameters[15].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[15].Value = ((string)(专业技术职务));
-            }
-            if ((离退时间 == null)) {
+            if ((Original_结算部门 == null)) {
+                this.Adapter.UpdateCommand.Parameters[15].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[16].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[16].Value = ((string)(离退时间));
+                this.Adapter.UpdateCommand.Parameters[15].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[16].Value = ((string)(Original_结算部门));
             }
-            if ((计发比例 == null)) {
-                this.Adapter.UpdateCommand.Parameters[17].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[17].Value = ((string)(计发比例));
-            }
-            if ((婚姻状况 == null)) {
+            if ((Original_职务等级 == null)) {
+                this.Adapter.UpdateCommand.Parameters[17].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[18].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[18].Value = ((string)(婚姻状况));
+                this.Adapter.UpdateCommand.Parameters[17].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[18].Value = ((string)(Original_职务等级));
             }
-            if ((子女状况 == null)) {
-                this.Adapter.UpdateCommand.Parameters[19].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[19].Value = ((string)(子女状况));
-            }
-            if ((享受住房补贴状况 == null)) {
+            if ((Original_军衔级别 == null)) {
+                this.Adapter.UpdateCommand.Parameters[19].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[20].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[20].Value = ((string)(享受住房补贴状况));
+                this.Adapter.UpdateCommand.Parameters[19].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[20].Value = ((string)(Original_军衔级别));
             }
-            if ((伤残等级 == null)) {
-                this.Adapter.UpdateCommand.Parameters[21].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[21].Value = ((string)(伤残等级));
-            }
-            if ((提干时间 == null)) {
+            if ((Original_公民身份证号 == null)) {
+                this.Adapter.UpdateCommand.Parameters[21].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[22].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[22].Value = ((string)(提干时间));
+                this.Adapter.UpdateCommand.Parameters[21].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[22].Value = ((string)(Original_公民身份证号));
             }
-            if ((调入时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[23].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[23].Value = ((string)(调入时间));
-            }
-            if ((停供国防费时间 == null)) {
+            if ((Original_储蓄账号 == null)) {
+                this.Adapter.UpdateCommand.Parameters[23].Value = ((object)(1));
                 this.Adapter.UpdateCommand.Parameters[24].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[24].Value = ((string)(停供国防费时间));
-            }
-            if ((选改士官时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[25].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[25].Value = ((string)(选改士官时间));
-            }
-            if ((入伍登记表编号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[26].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[26].Value = ((string)(入伍登记表编号));
-            }
-            if ((选改士官提干命令号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[27].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[27].Value = ((string)(选改士官提干命令号));
-            }
-            if ((部队驻地 == null)) {
-                this.Adapter.UpdateCommand.Parameters[28].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[28].Value = ((string)(部队驻地));
-            }
-            if ((原单位 == null)) {
-                this.Adapter.UpdateCommand.Parameters[29].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[29].Value = ((string)(原单位));
-            }
-            if ((供给介绍信编号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[30].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[30].Value = ((string)(供给介绍信编号));
-            }
-            if ((公民身份证号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[31].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[31].Value = ((string)(公民身份证号));
-            }
-            if ((军人保障卡号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[32].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[32].Value = ((string)(军人保障卡号));
-            }
-            if ((干部编号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[33].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[33].Value = ((string)(干部编号));
-            }
-            if ((人员来源 == null)) {
-                this.Adapter.UpdateCommand.Parameters[34].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[34].Value = ((string)(人员来源));
-            }
-            if ((储蓄账号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[35].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[35].Value = ((string)(储蓄账号));
-            }
-            if ((院校学员 == null)) {
-                this.Adapter.UpdateCommand.Parameters[36].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[36].Value = ((string)(院校学员));
-            }
-            if ((学籍号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[37].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[37].Value = ((string)(学籍号));
-            }
-            if ((备注 == null)) {
-                this.Adapter.UpdateCommand.Parameters[38].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[38].Value = ((string)(备注));
-            }
-            if ((不自动计算医保 == null)) {
-                this.Adapter.UpdateCommand.Parameters[39].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[39].Value = ((string)(不自动计算医保));
-            }
-            if ((不自动计算税款 == null)) {
-                this.Adapter.UpdateCommand.Parameters[40].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[40].Value = ((string)(不自动计算税款));
-            }
-            if ((不自动计算大病互助保险 == null)) {
-                this.Adapter.UpdateCommand.Parameters[41].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[41].Value = ((string)(不自动计算大病互助保险));
-            }
-            this.Adapter.UpdateCommand.Parameters[42].Value = ((int)(Original_ID));
-            if ((Original_档案号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[43].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[44].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[43].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[44].Value = ((string)(Original_档案号));
-            }
-            if ((Original_人员类别 == null)) {
-                this.Adapter.UpdateCommand.Parameters[45].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[46].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[45].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[46].Value = ((string)(Original_人员类别));
-            }
-            if ((Original_姓名 == null)) {
-                this.Adapter.UpdateCommand.Parameters[47].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[48].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[47].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[48].Value = ((string)(Original_姓名));
-            }
-            if ((Original_结算部门 == null)) {
-                this.Adapter.UpdateCommand.Parameters[49].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[50].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[49].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[50].Value = ((string)(Original_结算部门));
-            }
-            if ((Original_性别 == null)) {
-                this.Adapter.UpdateCommand.Parameters[51].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[52].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[51].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[52].Value = ((string)(Original_性别));
-            }
-            if ((Original_民族 == null)) {
-                this.Adapter.UpdateCommand.Parameters[53].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[54].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[53].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[54].Value = ((string)(Original_民族));
-            }
-            if ((Original_出生日期 == null)) {
-                this.Adapter.UpdateCommand.Parameters[55].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[56].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[55].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[56].Value = ((string)(Original_出生日期));
-            }
-            if ((Original_入伍地点 == null)) {
-                this.Adapter.UpdateCommand.Parameters[57].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[58].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[57].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[58].Value = ((string)(Original_入伍地点));
-            }
-            if ((Original_文化程度 == null)) {
-                this.Adapter.UpdateCommand.Parameters[59].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[60].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[59].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[60].Value = ((string)(Original_文化程度));
-            }
-            if ((Original_入伍前工龄 == null)) {
-                this.Adapter.UpdateCommand.Parameters[61].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[62].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[61].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[62].Value = ((string)(Original_入伍前工龄));
-            }
-            if ((Original_工作时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[63].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[64].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[63].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[64].Value = ((string)(Original_工作时间));
-            }
-            if ((Original_入伍时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[65].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[66].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[65].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[66].Value = ((string)(Original_入伍时间));
-            }
-            if ((Original_护教龄 == null)) {
-                this.Adapter.UpdateCommand.Parameters[67].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[68].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[67].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[68].Value = ((string)(Original_护教龄));
-            }
-            if ((Original_职务等级 == null)) {
-                this.Adapter.UpdateCommand.Parameters[69].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[70].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[69].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[70].Value = ((string)(Original_职务等级));
-            }
-            if ((Original_军衔级别 == null)) {
-                this.Adapter.UpdateCommand.Parameters[71].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[72].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[71].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[72].Value = ((string)(Original_军衔级别));
-            }
-            if ((Original_专业技术职务 == null)) {
-                this.Adapter.UpdateCommand.Parameters[73].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[74].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[73].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[74].Value = ((string)(Original_专业技术职务));
-            }
-            if ((Original_离退时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[75].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[76].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[75].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[76].Value = ((string)(Original_离退时间));
-            }
-            if ((Original_计发比例 == null)) {
-                this.Adapter.UpdateCommand.Parameters[77].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[78].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[77].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[78].Value = ((string)(Original_计发比例));
-            }
-            if ((Original_婚姻状况 == null)) {
-                this.Adapter.UpdateCommand.Parameters[79].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[80].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[79].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[80].Value = ((string)(Original_婚姻状况));
-            }
-            if ((Original_子女状况 == null)) {
-                this.Adapter.UpdateCommand.Parameters[81].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[82].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[81].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[82].Value = ((string)(Original_子女状况));
-            }
-            if ((Original_享受住房补贴状况 == null)) {
-                this.Adapter.UpdateCommand.Parameters[83].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[84].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[83].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[84].Value = ((string)(Original_享受住房补贴状况));
-            }
-            if ((Original_伤残等级 == null)) {
-                this.Adapter.UpdateCommand.Parameters[85].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[86].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[85].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[86].Value = ((string)(Original_伤残等级));
-            }
-            if ((Original_提干时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[87].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[88].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[87].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[88].Value = ((string)(Original_提干时间));
-            }
-            if ((Original_调入时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[89].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[90].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[89].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[90].Value = ((string)(Original_调入时间));
-            }
-            if ((Original_停供国防费时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[91].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[92].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[91].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[92].Value = ((string)(Original_停供国防费时间));
-            }
-            if ((Original_选改士官时间 == null)) {
-                this.Adapter.UpdateCommand.Parameters[93].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[94].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[93].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[94].Value = ((string)(Original_选改士官时间));
-            }
-            if ((Original_入伍登记表编号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[95].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[96].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[95].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[96].Value = ((string)(Original_入伍登记表编号));
-            }
-            if ((Original_选改士官提干命令号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[97].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[98].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[97].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[98].Value = ((string)(Original_选改士官提干命令号));
-            }
-            if ((Original_部队驻地 == null)) {
-                this.Adapter.UpdateCommand.Parameters[99].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[100].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[99].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[100].Value = ((string)(Original_部队驻地));
-            }
-            if ((Original_原单位 == null)) {
-                this.Adapter.UpdateCommand.Parameters[101].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[102].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[101].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[102].Value = ((string)(Original_原单位));
-            }
-            if ((Original_供给介绍信编号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[103].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[104].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[103].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[104].Value = ((string)(Original_供给介绍信编号));
-            }
-            if ((Original_公民身份证号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[105].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[106].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[105].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[106].Value = ((string)(Original_公民身份证号));
-            }
-            if ((Original_军人保障卡号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[107].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[108].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[107].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[108].Value = ((string)(Original_军人保障卡号));
-            }
-            if ((Original_干部编号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[109].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[110].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[109].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[110].Value = ((string)(Original_干部编号));
-            }
-            if ((Original_人员来源 == null)) {
-                this.Adapter.UpdateCommand.Parameters[111].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[112].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[111].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[112].Value = ((string)(Original_人员来源));
-            }
-            if ((Original_储蓄账号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[113].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[114].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[113].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[114].Value = ((string)(Original_储蓄账号));
-            }
-            if ((Original_院校学员 == null)) {
-                this.Adapter.UpdateCommand.Parameters[115].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[116].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[115].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[116].Value = ((string)(Original_院校学员));
-            }
-            if ((Original_学籍号 == null)) {
-                this.Adapter.UpdateCommand.Parameters[117].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[118].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[117].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[118].Value = ((string)(Original_学籍号));
-            }
-            if ((Original_备注 == null)) {
-                this.Adapter.UpdateCommand.Parameters[119].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[120].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[119].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[120].Value = ((string)(Original_备注));
-            }
-            if ((Original_不自动计算医保 == null)) {
-                this.Adapter.UpdateCommand.Parameters[121].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[122].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[121].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[122].Value = ((string)(Original_不自动计算医保));
-            }
-            if ((Original_不自动计算税款 == null)) {
-                this.Adapter.UpdateCommand.Parameters[123].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[124].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[123].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[124].Value = ((string)(Original_不自动计算税款));
-            }
-            if ((Original_不自动计算大病互助保险 == null)) {
-                this.Adapter.UpdateCommand.Parameters[125].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[126].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[125].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[126].Value = ((string)(Original_不自动计算大病互助保险));
+                this.Adapter.UpdateCommand.Parameters[23].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[24].Value = ((string)(Original_储蓄账号));
             }
             global::System.Data.ConnectionState previousConnectionState = this.Adapter.UpdateCommand.Connection.State;
             if (((this.Adapter.UpdateCommand.Connection.State & global::System.Data.ConnectionState.Open) 

@@ -69,6 +69,10 @@
     <Compile Include="SalaryDeleteUC.Designer.cs">
       <DependentUpon>SalaryDeleteUC.cs</DependentUpon>
     </Compile>
+    <Compile Include="SalaryManagementDataSet.cs">
+      <DependentUpon>SalaryManagementDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="SalaryManagementDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -145,6 +149,9 @@
     </None>
     <None Include="SalaryManagementDataSet.xss">
       <DependentUpon>SalaryManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="人员基本信息导入模板.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
   <ItemGroup>

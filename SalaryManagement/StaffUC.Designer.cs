@@ -119,7 +119,7 @@
             // btSearch
             // 
             this.btSearch.Font = new System.Drawing.Font("SimSun", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.btSearch.Location = new System.Drawing.Point(725, 99);
+            this.btSearch.Location = new System.Drawing.Point(719, 94);
             this.btSearch.Name = "btSearch";
             this.btSearch.Size = new System.Drawing.Size(109, 33);
             this.btSearch.TabIndex = 9;
@@ -142,7 +142,7 @@
             // btUpload
             // 
             this.btUpload.Font = new System.Drawing.Font("SimSun", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.btUpload.Location = new System.Drawing.Point(855, 99);
+            this.btUpload.Location = new System.Drawing.Point(849, 94);
             this.btUpload.Name = "btUpload";
             this.btUpload.Size = new System.Drawing.Size(109, 33);
             this.btUpload.TabIndex = 11;
